@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="100" tvg-name="TVN" tvg-logo="", TVN
 https://raw.githubusercontent.com/MINMediaGlobal/MiTele/muxes/100ch.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="MiTV1" tvg-logo="", MiTele 1
-https://cdn.jsdelivr.net/gh/MINMediaGlobal/MINPlus@MUXES/MIN%20Global%20Networks/MIN1.m3u8
+https://raw.githubusercontent.com/MINMediaGlobal/MINPlus/MUXES/MIN%20Global%20Networks/MIN1.m3u9
