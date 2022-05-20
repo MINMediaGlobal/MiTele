@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name="MiTV1" tvg-logo="", MiTele 1
+https://cdn.jsdelivr.net/gh/MINMediaGlobal/MINPlus@MUXES/MIN%20Global%20Networks/MIN1.m3u8
