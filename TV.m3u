@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100" tvg-name="TVN" tvg-logo="", TVN
+#EXTINF:-1 tvg-id="100" tvg-name="MiTV1" tvg-logo="", MiTele 1
+https://poast.tv/static/streaming-playlists/hls/fa2e7820-2411-4230-86c3-7ec66674e6db/1.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="TVN" tvg-logo="", TVN
 https://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101" tvg-name="MiTV1" tvg-logo="", MiTele 1
